@@ -1,3 +1,11 @@
+
+##代码运行
+
+改Fakemodel和CNN这两个文件
+
+
+
+
 ## Environments
 Implementing environment:  
 - python=3.6
